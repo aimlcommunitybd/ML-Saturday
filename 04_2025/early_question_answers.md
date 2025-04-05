@@ -1,12 +1,14 @@
 This document addresses the early questions collected for the ML Saturday session. The question sheet contains around 57 questions, and I’ll be merging similar ones to answer them together. You can find the question sheet [here](https://github.com/AI-ML-Professional-Community-Bangladesh/ML-Saturday/blob/main/04_2025/early_questions.md).
 
+---
+# Questions & Answers
+---
 
-## Questions - A
-1. What is the proper roadmap to learn AI/ML from scratch?
-3. What are the basic preparations to start learning ML (e.g., Python, math, statistics)?
-5. How can I strengthen my fundamental knowledge of AI/ML?
+- Q1. What is the proper roadmap to learn AI/ML from scratch?
+- Q3. What are the basic preparations to start learning ML (e.g., Python, math, statistics)?
+- Q5. How can I strengthen my fundamental knowledge of AI/ML?
 
-### Answer - A
+
 #### ✅ **Prerequisites**
 - **Programming:** Learn at least one programming language. **Python** is highly recommended due to its popularity and ecosystem in ML.
 - **Python Tools:** Pandas, Numpy, Matplotlib, Seaborn, Python venv. You can learn from official documentation or youtube video.
@@ -40,4 +42,6 @@ These books provide a great mix of theoretical insights and practical examples.
 
 ---
 > *Note: We may provide a beginner-friendly syllabus for ML mathematics, concepts, and algorithms soon.*
+---
+
 
