@@ -19,7 +19,7 @@ The original questions can be found [here](https://docs.google.com/document/d/1W
 
 ### 🧠 **Understanding Concepts & Projects**
 10. I know basic ML algorithms—how can I apply them to real projects for deeper understanding?
-11. How to decide which AI/ML model to use for a specific problem?
+11. How to decide which AI/ML algorithm to use for a specific problem?
 12. While I understand algorithms theoretically, I struggle with applying them to complex real-world data. How can I improve my practical implementation skills?
 
 ---
@@ -72,7 +72,7 @@ The original questions can be found [here](https://docs.google.com/document/d/1W
 41. What guidance exists for publishing ML/AI-related research papers?
 42. How to implement a ML project suitable for paper publication?
 43. What kind of research in reinforcement learning is important for Agentic AI?
-44. Which AI/ML-related math/architecture problems remain unsolved and worth exploring?
+44. In terms of math/architecture which AI/ML problems remain unsolved and worth exploring?
 45. How to get involved in VLM (Vision-Language Model) research?
 46. Are there opportunities for research collaboration in ML/AI?
 
@@ -82,16 +82,16 @@ The original questions can be found [here](https://docs.google.com/document/d/1W
 47. How to deploy multiple ML models to a server?
 48. What are the best practices for hyperparameter tuning?
 49. How can we optimize deep learning models for deployment in resource-constrained environments?
-50. What is the best way to update a chatbot with new user questions while minimizing resource use?
+50. What is the best way to update a chatbot with new data while minimizing training and resource cost?
 
 ---
 
 ### 🧑‍🔬 **Specialized Projects & Data Challenges**
 51. I want a complete roadmap to build an AI product from scratch—what are the steps?
-52. How to compare essays or texts effectively using LLMs?
-53. What are the challenges and impacts of using self-generated datasets (e.g., for GCN projects in urban planning)?
-54. How to build a dataset locally (e.g., for vehicle identification in Rajshahi)?
-55. How to find appropriate EEG data for epilepsy detection using ML?
+52. How to compare lots of essays effectively using LLMs?
+53. I'm using Graph Computational Network (GCN) to identify optimal bus/truck terminal locations in Dhaka. But lack of traffic, route, and land value data. If I create these datasets myself, how should I label them, and how will it affect accuracy?
+55. How can I effectively create a local dataset for vehicle identification in Rajshahi, considering the unique sizes of rickshaws and autorickshaws compared to other cities?
+56. How to find appropriate EEG data for epilepsy detection using ML?
 
 ---
 
