@@ -15,8 +15,8 @@ The original questions can be found [here](https://docs.google.com/document/d/1W
 8. AI/ML is a wide domain—how can I concentrate on a specific area like LLM or another specialization?
 9. What’s a clear roadmap to become an AI/ML Engineer?
 10. I want a roadmap for AI and Python, along with a complete discussion on how beginners should get started.
-11. Is DSA required for AI/ML
-12. How to use the statistics knowledge on ML
+11. Is DSA required for AI/ML?
+12. How to use the statistics knowledge on ML?
 
 ---
 
@@ -48,7 +48,7 @@ The original questions can be found [here](https://docs.google.com/document/d/1W
 9. What is the most promising AI/ML career area in Bangladesh right now?
 10. Are there remote career opportunities in AI/ML in Bangladesh?
 11. What kind of tasks do AI/ML engineers typically perform in Bangladeshi companies?
-12. Is it possible to be an expert in AI, ML, Data Science at a time? If possible, what should be the roadmap to prepare thyself for the industry?  Thank you.
+12. Is it possible to be an expert in AI, ML, Data Science at a time? If possible, what should be the roadmap to prepare thyself for the industry?
 
 
 ---
@@ -59,7 +59,7 @@ The original questions can be found [here](https://docs.google.com/document/d/1W
 3. How can I land a job or internship if I only have a few months left before graduation?
 4. How to prepare for and get remote jobs in AI/ML?
 5. What are the working hours, salary range, and skills needed for remote AI/ML jobs?
-6. what kind of interview  we face in the maximum ai ml jobs in in bd. and what is the most frequent sector i should focus on ml to get a job and intern
+6. what kind of interview  we face in the maximum ai ml jobs in in bd. and what is the most frequent sector i should focus on ml to get a job and intern?
 
 ---
 
@@ -108,6 +108,3 @@ The original questions can be found [here](https://docs.google.com/document/d/1W
 2. Up to what level of AI/ML proficiency should I reach before applying for jobs?
 
 ---
-
-
-
