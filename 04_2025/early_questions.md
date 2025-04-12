@@ -1,4 +1,4 @@
-These questions were submitted via the registration form by around 80 participants. We later preprocessed them for uniqueness, categorization, grammatical accuracy, etc.
+These questions were submitted via the registration form by around 100 participants. We later preprocessed them for uniqueness, categorization, grammatical accuracy, etc.
 
 The original questions can be found [here](https://docs.google.com/document/d/1WQgiObO269CnWGjyCJqx9-CX7aWynPV5CAspph0Uqzw/edit?usp=sharing). 
 
