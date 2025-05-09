@@ -1,6 +1,6 @@
 # ML Saturday Community Questions
 
-This list contains grammar-corrected questions submitted by the ML Saturday community. They are grouped into thematic clusters.
+This list contains grammar-corrected questions submitted throuh the ML Saturday registration form. They are grouped into thematic clusters.
 
 ---
 
@@ -100,9 +100,3 @@ This list contains grammar-corrected questions submitted by the ML Saturday comm
 * How to find mentors or write one myself?
 
 ---
-* X
-* I don't have a question.
-
----
-
-Would you like this in a downloadable `.md` file or pushed to a GitHub repository?
